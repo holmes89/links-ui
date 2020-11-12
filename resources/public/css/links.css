@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@600&family=Open+Sans&display=swap');
+
+.navbar-title {
+  font-family: Mulish,sans-serif;
+  font-size: 21px;
+}
+
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100vh;
+}
+
+.hero .title{
+  font-family: 'Mulish', sans-serif;
+}
